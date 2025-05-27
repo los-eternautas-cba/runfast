@@ -1,17 +1,9 @@
-Título del Proyecto (Tentativo): Un nombre inicial para su
-proyecto.
+Título del Proyecto (Tentativo): 
 
-- Breve Descripción de la Idea: ¿Cuál es la visión general del
-proyecto? ¿Qué problema busca resolver (aunque sea de forma
-muy básica)?
+- Breve Descripción de la Idea:
 
-- Posibles Funcionalidades o Áreas de Enfoque Inicial: Algunas
-ideas generales de lo que podría hacer el proyecto en el futuro.
-Posibles usuarios.
+- Posibles Funcionalidades o Áreas de Enfoque Inicial: 
 
-- Integrantes del Equipo: Nombres de todos los miembros del
-equipo, con una presentación inicial sobre las habilidades de cada (borrar una vez esten todas las presentaciones)
-uno.
+- Integrantes del Equipo: 
 
 Presentaciónes:
-Alejandro David Garcia Pardo: se programar en HTML, CSS, JavaScript Y Python, actualmente me encuentro aprendido Java y Sprint de forma autodidacta.
