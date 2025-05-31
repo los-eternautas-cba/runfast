@@ -4,6 +4,4 @@ Título del Proyecto (Tentativo):
 
 - Posibles Funcionalidades o Áreas de Enfoque Inicial: 
 
-- Integrantes del Equipo: 
-
-Presentaciónes:
+- Integrantes del Equipo: Alejandro David GARCIA PARDO, MARIA CATALINA RODAS, Brian David BRIZUELA, Emilio Jesus Maximiliano Villagra.
